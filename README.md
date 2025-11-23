@@ -1,2 +1,2 @@
 # leetcode-cpp
-Repo containing C++ solutions to popular LeetCode questions. 
+Repo containing C++ solutions to popular LeetCode questions.
