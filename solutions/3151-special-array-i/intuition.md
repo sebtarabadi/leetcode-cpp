@@ -1,1 +1,1 @@
-### LeetCode 3151. Special Array I
+# LeetCode 3151. Special Array I
